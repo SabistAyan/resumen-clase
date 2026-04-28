@@ -1,8 +1,7 @@
 # **Resumen de Clase: GitHub y SSH**
 
-### **Estudiante:** Sebastian Ruben Chavez Sempertegui
-
-### **Fecha:** 23 de abril de 2026
+**Estudiante:** Sebastian Ruben Chavez Sempertegui
+**Fecha:** 23 de abril de 2026
 
 ## **GitHub vs. Git**
 
