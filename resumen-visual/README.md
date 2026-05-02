@@ -1,4 +1,4 @@
-#Resumen Visual de Git - SCESI 2026
+# Resumen Visual de Git - SCESI 2026
 
 Este es mi repositorio de apuntes visuales para el curso de Git. Aquí registro todo lo aprendido, desde los conceptos básicos hasta el flujo de trabajo profesional.
 
