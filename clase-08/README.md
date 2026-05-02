@@ -1,5 +1,8 @@
 # Resumen clase: Guía de Contribución al Open Source (Flujo de André)
 
+**nombre:**Sebastian Ruben Chavez Sempertegui
+**fecha:**1 de mayo 2026
+
 Este es el proceso estándar para colaborar en proyectos donde no eres un colaborador invitado directamente.
 
 ## El Fork (Copia en la Nube)
